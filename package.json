@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "nodejs-discord-sniping-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
